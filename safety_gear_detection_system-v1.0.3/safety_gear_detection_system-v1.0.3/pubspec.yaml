@@ -1,0 +1,52 @@
+name: safety_gear_detection_system
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  get: ^4.6.6
+  connectivity_plus: ^5.0.2
+  shared_preferences: ^2.2.2
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  google_sign_in: ^5.0.7
+  pin_code_fields: ^8.0.1
+  flutter_svg_provider: ^1.0.7
+  sms_autofill: ^2.3.0
+  intl: ^0.18.0
+  fluttertoast: ^8.2.4
+  permission_handler: ^11.1.0
+  images_picker: ^1.2.11
+  flutter_vlc_player: ^7.4.1
+  firebase_core: ^2.27.1
+  firebase_auth: ^4.19.2
+  cloud_firestore: ^4.17.0
+  giffy_dialog: ^2.1.0
+  firebase_messaging: ^14.9.1
+  flutter_ringtone_player: ^4.0.0+2
+  firebase_in_app_messaging: ^0.7.5+4
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Overpass
+      fonts: 
+        - asset: assets/fonts/OverpassMedium.ttf
+          weight: 500
+        - asset: assets/fonts/OverpassBold.ttf
+          weight: 700
+        - asset: assets/fonts/OverpassRegular.ttf
+          weight: 400
+        - asset: assets/fonts/OverpassRomanSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/OverpassExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/OverpassSemiBold.ttf
+          weight: 600

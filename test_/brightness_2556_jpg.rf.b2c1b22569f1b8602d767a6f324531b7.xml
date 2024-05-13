@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>brightness_2556_jpg.rf.b2c1b22569f1b8602d767a6f324531b7.jpg</filename>
+	<path>brightness_2556_jpg.rf.b2c1b22569f1b8602d767a6f324531b7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>147</xmin>
+			<xmax>224</xmax>
+			<ymin>1</ymin>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

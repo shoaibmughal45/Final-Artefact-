@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>brightness_4351_jpg.rf.2d95f2240756d9ea0fc3c677694c97fa.jpg</filename>
+	<path>brightness_4351_jpg.rf.2d95f2240756d9ea0fc3c677694c97fa.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

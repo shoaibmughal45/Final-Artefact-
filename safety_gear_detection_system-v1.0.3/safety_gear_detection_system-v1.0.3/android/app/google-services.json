@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "738051321837",
+    "firebase_url": "https://safety-gear-detection-system-default-rtdb.firebaseio.com",
+    "project_id": "safety-gear-detection-system",
+    "storage_bucket": "safety-gear-detection-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738051321837:android:68012cc8782d46eb91c1e4",
+        "android_client_info": {
+          "package_name": "com.safetygeardetectionsystem.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCazvmnn0NVc_6i4U-_9sQMoeik7XaXhTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

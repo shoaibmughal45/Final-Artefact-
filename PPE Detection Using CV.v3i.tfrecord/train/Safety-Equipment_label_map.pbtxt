@@ -1,0 +1,35 @@
+item {
+    name: "Person",
+    id: 1,
+    display_name: "Person"
+}
+item {
+    name: "goggles",
+    id: 2,
+    display_name: "goggles"
+}
+item {
+    name: "helmet",
+    id: 3,
+    display_name: "helmet"
+}
+item {
+    name: "no-goggles",
+    id: 4,
+    display_name: "no-goggles"
+}
+item {
+    name: "no-helmet",
+    id: 5,
+    display_name: "no-helmet"
+}
+item {
+    name: "no-vest",
+    id: 6,
+    display_name: "no-vest"
+}
+item {
+    name: "vest",
+    id: 7,
+    display_name: "vest"
+}
